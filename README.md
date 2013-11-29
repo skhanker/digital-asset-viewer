@@ -6,6 +6,10 @@ managers to add annotations to content etc etc gosh I could explain this better 
 
 Goor Read: http://alistapart.com/article/takecontrolofyourmaps
 
+Test at: dev.bcbib.library.ubc.ca
+- select an area
+- option/alt click to add an annotation
+
 Requirements
 ---------------
 
