@@ -7,19 +7,19 @@ managers to add annotations to content etc etc gosh I could explain this better 
 Requirements
 ---------------
 
-* Digitised Content *
-Ability to specify a region to annotate
-Ability for this annotated region to scale with underlying content
+#### Digitised Content
++ Ability to specify a region to annotate
++ Ability for this annotated region to scale with underlying content
 
-* Users *
-Identity/Access Management
+#### Users
++ Identity/Access Management
 
-* Resources for Consideration *
-BCBib Viewer
-MapHub (forked, is Rails but can convert to PHP)
-NYT Viewer
-Tile Mill
-Document Cloud
-Leaflet
-OpenLayers
-Whatever 1940snewyork.com used
+#### Resources for Consideration
++ BCBib Viewer
++ MapHub (forked, is Rails but can convert to PHP)
++ NYT Viewer
++ Tile Mill
++ Document Cloud
++ Leaflet
++ OpenLayers
++ Whatever 1940snewyork.com used
