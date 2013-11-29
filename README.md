@@ -4,9 +4,9 @@ Image Viewer Thingy
 The purpose of this project is to build a new (or extend an existing) digitized item viewer, that would allow content
 managers to add annotations to content etc etc gosh I could explain this better later on.
 
-Goor Read: http://alistapart.com/article/takecontrolofyourmaps
+Good Read: http://alistapart.com/article/takecontrolofyourmaps
 
-Test at: dev.bcbib.library.ubc.ca
+Test at: http://dev.bcbib.library.ubc.ca
 - select an area
 - option/alt click to add an annotation
 
@@ -34,6 +34,7 @@ Requirements
 + OpenLayers
 + Whatever 1940snewyork.com used
 + MapServer
++ Google Art Project
 
 #### Individual Resources
 + Mapnik
